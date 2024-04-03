@@ -1,0 +1,61 @@
+StudyTime,PreviousTestScore,ParentEducation,Pass
+7,89,not educated,passed with high grade
+7,81,masters,passed with high grade
+5,94,high school,passed with high grade
+3,80,masters,fail
+3,77,masters,fail
+7,91,high school,passed with high grade
+6,76,bachelor's,passed with low grade
+5,88,not educated,passed with high grade
+1,33,school,fail
+7,84,high school,passed with high grade
+4,69,school,passed with low grade
+2,78,not educated,fail
+7,96,not educated,passed with high grade
+3,72,school,fail
+4,57,high school,passed with low grade
+9,89,school,passed with high grade
+4,70,masters,passed with low grade
+2,75,high school,fail
+2,68,high school,fail
+3,71,school,fail
+1,38,not educated,fail
+4,74,not educated,passed with low grade
+3,79,high school,fail
+8,94,bachelor's,passed with high grade
+7,86,high school,passed with high grade
+5,97,bachelor's,passed with high grade
+1,42,masters,fail
+9,94,high school,passed with high grade
+7,92,not educated,passed with high grade
+2,73,school,fail
+6,70,high school,passed with low grade
+3,66,masters,fail
+7,85,bachelor's,passed with high grade
+7,87,school,passed with high grade
+5,90,bachelor's,passed with high grade
+1,40,bachelor's,fail
+7,93,school,passed with high grade
+9,93,bachelor's,passed with high grade
+1,34,school,fail
+4,68,masters,passed with low grade
+6,77,school,passed with low grade
+9,87,high school,passed with high grade
+3,68,masters,fail
+1,48,not educated,fail
+2,72,masters,fail
+7,99,masters,passed with high grade
+6,72,masters,passed with low grade
+6,71,not educated,passed with low grade
+8,91,not educated,passed with high grade
+4,67,bachelor's,passed with low grade
+1,39,high school,fail
+8,88,bachelor's,passed with high grade
+7,80,high school,passed with high grade
+4,63,school,passed with low grade
+9,95,school,passed with high grade
+8,92,high school,passed with high grade
+5,91,school,passed with high grade
+3,74,masters,fail
+2,77,bachelor's,fail
+4,66,school,passed with low grade
